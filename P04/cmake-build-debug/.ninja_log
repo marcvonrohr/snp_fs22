@@ -1,0 +1,7 @@
+# ninja log v5
+4	135	6690412936713751	CMakeFiles/P04.dir/modularize/src/read.c.obj	1e0a452bd625e447
+3	88	6690415396891771	CMakeFiles/P04.dir/modularize/src/triangle.c.obj	2fb81f54c558f1c4
+0	138	6690412936723734	CMakeFiles/P04.dir/library.c.obj	9a14df6ff4e3393b
+2	194	6775820275196399	build.ninja	cb5db2e5780bad5c
+3	137	6690419907667295	libP04.a	f2fe38247d0c9338
+11	139	6690412936733744	CMakeFiles/P04.dir/modularize/src/rectang.c.obj	fd2e740852c09247

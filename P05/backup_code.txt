@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main() {
+    printf("Start");
+    char words[10][20];
+    for (int i = 0; i < 10; i++) {
+        printf("Please enter Word %i", i + 1);
+        char letter;
+        int counter = 0;
+        char word[20];
+        while ((letter = getchar()) != '\n' && letter != EOF) {
+            if (counter > 20) {
+                printf("Word too large");
+                return 1;
+            }
+            word[counter] = letter;
+            counter++;
+        }
+        for (int j = 0; j < counter; j++) {
+            words[i][j] = word[j];
+        }
+    }
+    return 0;
+}

@@ -1,0 +1,19 @@
+# ninja log v5
+129	298	6672201175197385	Hello_World.exe	840ac2ac213974c1
+240	320	1645518797638838400	Hello_World	c93fe340b68a7d20
+1	367	6780429245697465	CMakeFiles/Hello_World.dir/main.c.obj	4bcca48549a7b050
+368	1212	6780429254007390	Hello_World.exe	be553e4d7122cdb8
+9	497	6780429743587227	CMakeFiles/Hello_World.dir/main.c.obj	4bcca48549a7b050
+497	904	6780429747932638	Hello_World.exe	be553e4d7122cdb8
+6	347	6780438890569302	CMakeFiles/Hello_World.dir/main.c.obj	4bcca48549a7b050
+6	330	6780439674020538	CMakeFiles/Hello_World.dir/main.c.obj	4bcca48549a7b050
+6	204	6780455113502607	CMakeFiles/Hello_World.dir/main.c.obj	4bcca48549a7b050
+205	428	6780455115621592	Hello_World.exe	be553e4d7122cdb8
+5	198	6780457802177116	CMakeFiles/Hello_World.dir/main.c.obj	4bcca48549a7b050
+199	504	6780457805096830	Hello_World.exe	be553e4d7122cdb8
+6	275	6780458085284837	CMakeFiles/Hello_World.dir/main.c.obj	4bcca48549a7b050
+276	565	6780458088067868	Hello_World.exe	be553e4d7122cdb8
+4	222	6780458397698070	CMakeFiles/Hello_World.dir/main.c.obj	4bcca48549a7b050
+223	474	6780458400090539	Hello_World.exe	be553e4d7122cdb8
+7	261	6780460738260194	CMakeFiles/Hello_World.dir/main.c.obj	4bcca48549a7b050
+263	508	6780460740662354	Hello_World.exe	be553e4d7122cdb8

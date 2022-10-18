@@ -1,0 +1,4 @@
+# ninja log v5
+1	214	6775834502011195	build.ninja	563ff21b93e0fe69
+4	490	6714458862878082	CMakeFiles/P06_Banane.dir/src/main.c.obj	f37f25ed91f3756a
+491	1101	6714458868928833	P06_Banane.exe	bea99c80e773e141

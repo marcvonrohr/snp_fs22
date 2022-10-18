@@ -1,0 +1,3 @@
+C:/Users/marcv/OneDrive - ZHAW/FS22/SNP/Praktikas/P06/cmake-build-debug/CMakeFiles/P06_Banane.dir
+C:/Users/marcv/OneDrive - ZHAW/FS22/SNP/Praktikas/P06/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marcv/OneDrive - ZHAW/FS22/SNP/Praktikas/P06/cmake-build-debug/CMakeFiles/rebuild_cache.dir

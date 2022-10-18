@@ -1,0 +1,3 @@
+C:/Users/marcv/OneDrive - ZHAW/FS22/SNP/Praktikas/P03/cmake-build-debug/CMakeFiles/P03.dir
+C:/Users/marcv/OneDrive - ZHAW/FS22/SNP/Praktikas/P03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marcv/OneDrive - ZHAW/FS22/SNP/Praktikas/P03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
